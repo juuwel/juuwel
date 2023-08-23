@@ -14,12 +14,11 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=juuwel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juuwel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juuwel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-3a0u5u83b-juuwel.vercel.app)/api/top-langs/?username=juuwel)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juuwel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats-3a0u5u83b-juuwel.vercel.app/api/top-langs/?username=juuwel&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juuwel&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=juuwel&theme=dark&hide_border=false)<br/> -->
