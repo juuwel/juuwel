@@ -13,6 +13,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juuwel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats-3a0u5u83b-juuwel.vercel.app/api/top-langs/?username=juuwel&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
