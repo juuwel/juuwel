@@ -19,7 +19,7 @@
 
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juuwel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats-3a0u5u83b-juuwel.vercel.app/api/top-langs/?username=juuwel&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -27,3 +27,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=juuwel&theme=dark&hide_border=false)<br/> -->
+<!-- ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juuwel&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
