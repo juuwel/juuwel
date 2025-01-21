@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilasova/) 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,html,ts,java,spring,postgres,react,angular,tailwind,flutter,dart,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,html,ts,docker,java,spring,postgres,react,angular,tailwind,flutter,dart,py,rabbitmq,spring)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats-3a0u5u83b-juuwel.vercel.app/api/top-langs/?username=juuwel&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
