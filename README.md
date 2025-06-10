@@ -1,9 +1,9 @@
 ![Header Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=5938F7&multiline=true&repeat=false&width=435&height=75&lines=Student+of+computer+science...;and+an+aspiring+full+stack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=5938F7&multiline=true&repeat=false&width=435&height=75&lines=Student+of+software+development...;and+an+aspiring+full+stack+developer.)](https://git.io/typing-svg)
 
 ## :wave: About me:
-- Studying computer science at Erhvervsakademi SydVest
+- Studying software development at Erhvervsakademi SydVest
 - Junior developer at the LEGO Group
 
 ## 🌐 Socials:
