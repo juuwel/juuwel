@@ -4,7 +4,7 @@
 
 ## :wave: About me:
 - Studying software development at Erhvervsakademi SydVest
-- Junior developer at the LEGO Group
+- Software engineer at the LEGO Group
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilasova/) 
